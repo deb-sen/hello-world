@@ -1,1 +1,1 @@
-1This is Git Quick Start demo
+This is Git Quick Start demo
